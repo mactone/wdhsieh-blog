@@ -2,9 +2,9 @@
 # Docs: https://hexo.io/docs/configuration.html
 
 # Site
-title: 主公的部落格
-subtitle: ''
-description: 以 Hexo 建立的靜態部落格骨架，參考 blog.kyomind.tw 的整體架構
+title: WD Hsieh Blog
+subtitle: '燃燒、節能、AI 與個人系統'
+description: 關於燃燒工程、節能、氨能源、AI 與個人系統的技術部落格
 keywords:
   - blog
   - hexo
