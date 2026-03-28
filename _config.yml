@@ -15,8 +15,8 @@ language: zh-TW
 timezone: Asia/Taipei
 
 # URL
-url: https://mactone.github.io/kyomind-style-blog
-root: /kyomind-style-blog/
+url: https://mactone.github.io/wdhsieh-blog
+root: /wdhsieh-blog/
 permalink: :title/
 permalink_defaults:
 pretty_urls:

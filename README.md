@@ -1,4 +1,4 @@
-# kyomind-style-blog
+# wdhsieh-blog
 
 A Hexo blog scaffold inspired by the overall stack/style of `blog.kyomind.tw`.
 
@@ -26,4 +26,4 @@ npx hexo generate
 Push to `main`, then GitHub Actions will build and publish to GitHub Pages.
 
 Expected site URL:
-- https://mactone.github.io/kyomind-style-blog/
+- https://mactone.github.io/wdhsieh-blog/
