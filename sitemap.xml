@@ -46,24 +46,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://mactone.github.io/wdhsieh-blog/hello-kyomind-style/</loc>
-    
-    <lastmod>2026-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://mactone.github.io/wdhsieh-blog/hello-world/</loc>
-    
-    <lastmod>2026-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://mactone.github.io/wdhsieh-blog</loc>
@@ -74,21 +56,7 @@
 
   
   <url>
-    <loc>https://mactone.github.io/wdhsieh-blog/tags/Hexo/</loc>
-    <lastmod>2026-03-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://mactone.github.io/wdhsieh-blog/tags/Blog/</loc>
-    <lastmod>2026-03-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mactone.github.io/wdhsieh-blog/tags/Setup/</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
