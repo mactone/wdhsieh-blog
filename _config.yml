@@ -99,10 +99,7 @@ sitemap:
   path: sitemap.xml
 
 # Deployment
-# GitHub Pages example:
-# deploy:
-#   type: git
-#   repo: git@github.com:<user>/<repo>.git
-#   branch: gh-pages
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/mactone/wdhsieh-blog.git
+  branch: gh-pages
